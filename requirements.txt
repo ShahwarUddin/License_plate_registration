@@ -1,0 +1,7 @@
+numpy
+ultralytics
+paddleocr
+pymongo
+opencv-python
+paddlepaddle
+dotenv
